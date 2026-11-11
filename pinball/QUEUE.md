@@ -25,6 +25,10 @@ cleanup") when back at the machine.
   - https://vpuniverse.com/files/file/26237-world-poker-tour-stern-2006/
   - Update (if already installed): baked textures for sidewalls, blades, backpanel, plastics, decals, metals, wires, ramps, playfield shadows
   - Check for Stern SAM ROM (`wpt_1400` or similar — screenshot shows V14.0) and backglass/DMD if not already present
+- [ ] **Freddy - A Nightmare on Elm Street (Gottlieb 1994)** by RobbyKingpin — VPX table (new release)
+  - https://vpuniverse.com/files/file/32879-freddy-a-nightmare-on-elm-street-gottlieb-1994/
+  - Has an optional random "Freddy" scare mode (sounds + animation), **off by default** — 5 settings: Off / Every 60s / Every 60s with Lightning / At Random / At Random with Lightning. Set in the table options.
+  - Check for Gottlieb System 3 ROM (`freddy` or similar) and backglass/DMD if not already present
 
 <!-- Item format:
 - [ ] Name — type (table / ROM / backglass / DMD / PUP pack / mod) — source link or notes
