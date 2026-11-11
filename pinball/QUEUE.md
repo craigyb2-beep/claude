@@ -13,7 +13,10 @@ cleanup") when back at the machine.
 
 ## Pending
 
-_(nothing yet)_
+- [ ] **Time Machine (Data East 1988)** v2.4.2 by RobbyKingpin — VPX table
+  - https://vpuniverse.com/files/file/24756-time-machine-data-east-1988/
+  - Update (if already installed): baked textures for sidewalls, blades, plastics, decals, metals, wires, ramps, playfield shadows; new VR room (tribute to Rawd)
+  - Check for ROM (`tmach_a4` or similar, Data East) and backglass/DMD if not already present
 
 <!-- Item format:
 - [ ] Name — type (table / ROM / backglass / DMD / PUP pack / mod) — source link or notes
