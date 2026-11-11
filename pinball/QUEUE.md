@@ -21,6 +21,10 @@ cleanup") when back at the machine.
   - https://pinballnirvana.com/forums/resources/gravity-falls.8863/
   - Pinball Nirvana downloads usually need a site login
   - Needs Future Pinball + BAM/FizX set up on the cabinet; check the frontend can launch FP tables
+- [ ] **World Poker Tour (Stern 2006)** v2.4.1 by RobbyKingpin — VPX table
+  - https://vpuniverse.com/files/file/26237-world-poker-tour-stern-2006/
+  - Update (if already installed): baked textures for sidewalls, blades, backpanel, plastics, decals, metals, wires, ramps, playfield shadows
+  - Check for Stern SAM ROM (`wpt_1400` or similar — screenshot shows V14.0) and backglass/DMD if not already present
 
 <!-- Item format:
 - [ ] Name — type (table / ROM / backglass / DMD / PUP pack / mod) — source link or notes
