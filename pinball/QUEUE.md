@@ -17,6 +17,10 @@ cleanup") when back at the machine.
   - https://vpuniverse.com/files/file/24756-time-machine-data-east-1988/
   - Update (if already installed): baked textures for sidewalls, blades, plastics, decals, metals, wires, ramps, playfield shadows; new VR room (tribute to Rawd)
   - Check for ROM (`tmach_a4` or similar, Data East) and backglass/DMD if not already present
+- [ ] **Gravity Falls** (original theme) by Rulo12mayo — **Future Pinball** table (FizX physics), not VPX
+  - https://pinballnirvana.com/forums/resources/gravity-falls.8863/
+  - Pinball Nirvana downloads usually need a site login
+  - Needs Future Pinball + BAM/FizX set up on the cabinet; check the frontend can launch FP tables
 
 <!-- Item format:
 - [ ] Name — type (table / ROM / backglass / DMD / PUP pack / mod) — source link or notes
