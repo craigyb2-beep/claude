@@ -29,6 +29,11 @@ cleanup") when back at the machine.
   - https://vpuniverse.com/files/file/32879-freddy-a-nightmare-on-elm-street-gottlieb-1994/
   - Has an optional random "Freddy" scare mode (sounds + animation), **off by default** — 5 settings: Off / Every 60s / Every 60s with Lightning / At Random / At Random with Lightning. Set in the table options.
   - Check for Gottlieb System 3 ROM (`freddy` or similar) and backglass/DMD if not already present
+- [ ] **X-Files (Sega 1997) Hanibal 4k LED Edition MW MOD 1.0** by MachWon — VPX table (mod of Hanibal/JPSalas/Sliderpoint version)
+  - https://vpuniverse.com/files/file/32630-x-files-sega-1997-hanibal-4k-led-edition-mw-mod-10/
+  - nFozzy physics, Fleep sounds, reworked lighting/Alien tube, ball-stuck + left ramp fixes; 4 side blade choices in F12 menu; Rubberizer off by default
+  - If an older X-Files is installed, decide whether this replaces it in the frontend
+  - Check for Sega/Data East ROM (`xfiles` or similar) and backglass/DMD if not already present
 
 <!-- Item format:
 - [ ] Name — type (table / ROM / backglass / DMD / PUP pack / mod) — source link or notes
